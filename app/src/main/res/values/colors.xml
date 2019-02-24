@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="software_textColor_selected">#b99a59</color>
+    <color name="software_textColor_unselected">#999999</color>
+
+    <color name="record_textColor_selected">#182125</color>
+    <color name="record_textColor_unselected">#999999</color>
+
+    <color name="Title_Bar">#0E1417</color>
+    <color name="AllBackBlack">#182125</color>
+    <!--<color name="GoldenColor">#FFCC66</color>-->
+    <color name="GoldenColor">#b99a59</color>
+    <color name="ClubTextColor">#64686B</color>
+    <color name="ClubGoldenColor">#FFCC66</color>
+    <color name="LineColor">#434a4d</color>
+    <color name="TextColor">#999999</color>
+    <color name="GridBack">#30383B</color>
+    <color name="EditTextHint">#7E8182</color>
+    <color name="newClubColor">#8D8D8D</color>
+    <color name="Club_PutForward">#993333</color>
+    <color name="ClubTextColorGray">#CCCCCC</color>
+    <color name="ClubColorGray">#20282D</color>
+    <color name="my_text_color">#CCCCCC</color>
+    <color name="ClubLineColor">#2F363A</color>
+
+    <!-- 状态栏颜色 -->
+    <color name="Status_Bar">#0E1417</color>
+    <!-- 灰色 -->
+    <color name="shallowgrey">#F2F2F2</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange_1">#FF432F</color>
+    <color name="allback">#F36652</color>
+    <color name="grayback">#EDEFED</color>
+    <color name="transparent">#66000000</color>
+
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="colortabtext">#ADADAD</color>
+    <color name="colorjuhon">#F36c2c</color>
+    <color name="background">#FFFFFF</color>
+    <color name="split_line">#11112233</color>
+    <color name="text1">#59B29C</color>
+    <color name="text2">#333333</color>
+    <color name="color1">#F0F0F0</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#B0B0B0</color>
+    <color name="color4">#666666</color>
+    <color name="color5">#57C5E8</color>
+
+</resources>
